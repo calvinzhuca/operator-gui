@@ -1,4 +1,4 @@
-## GUI for the Operator
+# GUI for the Operator
 
 git clone <this project> 
 
@@ -9,16 +9,16 @@ npm install
 npm update
 
 
-# Start server:
+## Start server:
 
 npm start
 
-# run test:
+## run test:
 
 npm test
 
 
-# generate bundle.js:
+## generate bundle.js:
 
 npm run build
 
